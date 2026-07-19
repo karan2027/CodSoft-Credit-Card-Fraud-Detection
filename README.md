@@ -2,6 +2,10 @@
 
 An interactive Machine Learning dashboard for real-time credit card fraud detection, featuring class balancing (undersampling/oversampling), algorithm performance comparison, single-transaction analyzer, and batch prediction tools.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://karan2027-credit-card-fraud-detection.streamlit.app/)
+
+### 🌐 Live Demo: [karan2027-credit-card-fraud-detection.streamlit.app](https://karan2027-credit-card-fraud-detection.streamlit.app/)
+
 ---
 
 ## Application Interface
